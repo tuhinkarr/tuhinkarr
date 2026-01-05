@@ -2,7 +2,7 @@
 <h3 align="center">Graduate CSE | Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode&perline=9" width="520" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ Web-based music streaming interface implementing dynamic playlists and playback 
 
 ### 📬 Contact
 
-- LinkedIn — https://www.linkedin.com/in/tuhin-kar/
+- LinkedIn — https://www.linkedin.com/in/tuhin-kar/ 
 - Email — **tuhinkar976@gmail.com**
 
 ---
