@@ -1,41 +1,52 @@
-<h1 align="center">Tuhin Kar</h1>
-<h3 align="center">Graduate CSE | Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Tuhin Kar</h1>
+<h3 align="center">Graduate CSE Student | Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode&perline=9" width="650" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode&perline=9" width="650" />
 </p>
 
 ---
 
-### 👨‍💻 Profile
+### 🚀 About Me
 
-Graduate in Computer Science & Engineering with a strong interest in full stack web development.  
-Actively building real-world projects and continuously improving problem-solving and system design skills.
-
----
-
-### 🧩 Technical Skills
-
-**Frontend** — HTML5, CSS3, JavaScript, React, Tailwind CSS  
-**Backend** — Node.js, Express.js  
-**Database** — MongoDB  
-**Tools** — Git, GitHub, VS Code, Canva
+- 🎓 **Graduate in Computer Science & Engineering**
+- 🌱 Currently learning **Full Stack Web Development**
+- 💻 Strong in **HTML, CSS, JavaScript, React, Node.js**
+- 🧠 Fast learner and hardworking developer
+- 🎯 Actively building real-world projects
+- 📍 From Tripura, India
 
 ---
 
-### 🧪 Project Experience
+### 🛠️ Tech Stack
 
-**Spotify Clone**  
-Web-based music streaming interface implementing dynamic playlists and playback controls.  
-*Tech:* HTML, CSS, JavaScript
+**Frontend:**  
+HTML5 • CSS3 • JavaScript • React • Tailwind CSS
+
+**Backend:**  
+Node.js • Express.js
+
+**Database:**  
+MongoDB
+
+**Tools:**  
+Git • GitHub • VS Code • Canva
 
 ---
 
-### 📬 Contact
+### 📂 Featured Project
 
-- LinkedIn — [tuhin-kar](https://www.linkedin.com/in/tuhin-kar/)  
-- Email — **tuhinkar976@gmail.com**
+| Project | Description | Tech |
+|--------|------------|------|
+| Spotify Clone | Web-based music player | HTML, CSS, JavaScript |
 
 ---
 
-> *Open to full-time roles, internships, and collaborative projects.*
+### 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/tuhin-kar/
+- 📧 Email: **tuhinkar976@gmail.com**
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
