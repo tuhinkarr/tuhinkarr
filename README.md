@@ -2,7 +2,7 @@
 <h3 align="center">Graduate CSE Student | Full Stack Web Developer</h3>
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode&perline=9" width="650" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode&perline=11" width="650" />
 </p>
 
 ---
